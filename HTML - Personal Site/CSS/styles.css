@@ -1,0 +1,28 @@
+  body{
+    background-color: #92a8d1;
+    color:#034f84;
+
+  }
+  hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #4040a1;
+  width: 5%;
+  border-width: 5px;
+  }
+
+  h1{
+    color: #f7786b ;
+  }
+  .des{
+    color:black;
+  }
+
+  h3{
+    color: #bc5a45;
+  }
+  #heading{
+    color: black;
+  }
+  a{color: black;}
+  .inst{color: #f7786b;}
